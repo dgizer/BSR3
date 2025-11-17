@@ -133,7 +133,7 @@
 
       Call Read_rpar(inp,'aweight',aweight)
       Call Read_rpar(inp,'bweight',bweight)
-      Call Read_rpar(inp,'acc'    ,acc    )
+      Call Read_rpar(inp,'z'    ,z    )
 
       Call Read_apar(inp,'knot',knot)
 
